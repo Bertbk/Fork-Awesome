@@ -7366,3 +7366,14 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       Overleaf
+    id:         overleaf
+    unicode:    f339
+    created:    1.1
+    filter:
+      - science
+      - latex
+      - text
+    categories:
+      - Brand Icons
