@@ -7366,3 +7366,13 @@ icons:
       - ringing
     categories:
       - Web Application Icons
+
+  - name:       DOI
+    id:         doi
+    unicode:    f331
+    created:    1.1
+    filter:
+      - science
+      - identifier
+    categories:
+      - Brand Icons
